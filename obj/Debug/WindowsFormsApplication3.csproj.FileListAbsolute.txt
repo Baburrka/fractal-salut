@@ -1,0 +1,25 @@
+F:\Универ\3D\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Универ\3D\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Универ\3D\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+F:\Универ\3D\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Универ\3D\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Универ\3D\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Универ\3D\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Универ\3D\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Универ\3D\лаба1-фрактал\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+f:\waste\3Д моделирование\семестр 8\лаба1-фрактал\WindowsFormsApplication3\obj\Debug\GenerateResource-ResGen.write.1.tlog
